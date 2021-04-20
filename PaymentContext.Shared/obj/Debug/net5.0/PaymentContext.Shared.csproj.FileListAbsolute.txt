@@ -1,0 +1,12 @@
+C:\Estudos\BaltaIo\Modelando_Dominios_Ricos\Projeto\PaymentContext.Shared\bin\Debug\net5.0\PaymentContext.Shared.deps.json
+C:\Estudos\BaltaIo\Modelando_Dominios_Ricos\Projeto\PaymentContext.Shared\bin\Debug\net5.0\PaymentContext.Shared.dll
+C:\Estudos\BaltaIo\Modelando_Dominios_Ricos\Projeto\PaymentContext.Shared\bin\Debug\net5.0\ref\PaymentContext.Shared.dll
+C:\Estudos\BaltaIo\Modelando_Dominios_Ricos\Projeto\PaymentContext.Shared\bin\Debug\net5.0\PaymentContext.Shared.pdb
+C:\Estudos\BaltaIo\Modelando_Dominios_Ricos\Projeto\PaymentContext.Shared\obj\Debug\net5.0\PaymentContext.Shared.csprojAssemblyReference.cache
+C:\Estudos\BaltaIo\Modelando_Dominios_Ricos\Projeto\PaymentContext.Shared\obj\Debug\net5.0\PaymentContext.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\BaltaIo\Modelando_Dominios_Ricos\Projeto\PaymentContext.Shared\obj\Debug\net5.0\PaymentContext.Shared.AssemblyInfoInputs.cache
+C:\Estudos\BaltaIo\Modelando_Dominios_Ricos\Projeto\PaymentContext.Shared\obj\Debug\net5.0\PaymentContext.Shared.AssemblyInfo.cs
+C:\Estudos\BaltaIo\Modelando_Dominios_Ricos\Projeto\PaymentContext.Shared\obj\Debug\net5.0\PaymentContext.Shared.csproj.CoreCompileInputs.cache
+C:\Estudos\BaltaIo\Modelando_Dominios_Ricos\Projeto\PaymentContext.Shared\obj\Debug\net5.0\PaymentContext.Shared.dll
+C:\Estudos\BaltaIo\Modelando_Dominios_Ricos\Projeto\PaymentContext.Shared\obj\Debug\net5.0\ref\PaymentContext.Shared.dll
+C:\Estudos\BaltaIo\Modelando_Dominios_Ricos\Projeto\PaymentContext.Shared\obj\Debug\net5.0\PaymentContext.Shared.pdb
